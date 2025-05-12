@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    cout<<"HELL"<<endl;
+    cout<<"HELL NO"<<endl;
     return 0;
 }
