@@ -9,5 +9,6 @@ int main()
     int b;
     cin >> b;
     cout << b;
+    cout <<"i am done";
     return 0;
 }
