@@ -1,4 +1,5 @@
 #include <iostream>
+#include <windows.h>
 
 using namespace std;
 
@@ -8,7 +9,8 @@ int main()
     cout << "P" << endl;
     int b;
     cin >> b;
-    cout << b;
-    cout <<"i am done";
+    cout << b << endl;
+    cout << "i am done" << endl;
+    Sleep(2000);
     return 0;
 }
